@@ -1,8 +1,10 @@
 {
   "common": {
-    "cancel": "stornieren"
+    "cancel": "stornieren",
+    "delete": "Löschen"
   },
   "dashboard": {
+    "title": "Titel",
     "welcome": "Willkommen"
   }
 }
