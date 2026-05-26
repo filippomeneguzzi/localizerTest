@@ -1,10 +1,11 @@
 {
   "common": {
-    "cancel": "Stornieren",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
     "delete": "Löschen"
   },
   "dashboard": {
-    "title": "Titel",
+    "title": "Dashboard",
     "welcome": "Willkommen"
   }
 }
