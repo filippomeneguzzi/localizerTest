@@ -1,1 +1,6 @@
-{}
+{
+  "common": {
+    "save": "jgcj",
+    "cancel": "jgu"
+  }
+}
