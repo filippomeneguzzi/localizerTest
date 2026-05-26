@@ -1,6 +1,11 @@
 {
   "common": {
-    "save": "jgcj",
-    "cancel": "jgu"
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "welcome": "Bienvenido"
   }
 }
