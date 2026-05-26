@@ -1,6 +1,11 @@
 {
-    "common": {
-      "save": "Save",
-      "cancel": "Cancel"
-    }
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome"
+  }
 }
